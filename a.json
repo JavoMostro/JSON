@@ -1,7 +1,5 @@
 {
-  "squadName" : "Hola",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
+  "prodTitulo" : "aguacate",
+  "prodImagen" : "aguacate",
   "active" : true
 }
